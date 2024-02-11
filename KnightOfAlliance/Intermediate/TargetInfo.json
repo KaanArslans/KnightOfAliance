@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "KnightOfAlliance",
+			"Path": "..\\Source\\KnightOfAlliance.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "KnightOfAllianceEditor",
+			"Path": "..\\Source\\KnightOfAllianceEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

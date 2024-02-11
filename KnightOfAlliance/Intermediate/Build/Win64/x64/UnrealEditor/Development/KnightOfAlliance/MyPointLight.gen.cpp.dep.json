@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kenik\\onedrive\\belgeler\\unreal projects\\knightofalliance\\intermediate\\build\\win64\\unrealeditor\\inc\\knightofalliance\\uht\\mypointlight.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kenik\\onedrive\\belgeler\\unreal projects\\knightofalliance\\intermediate\\build\\win64\\x64\\knightofallianceeditor\\development\\engine\\sharedpch.engine.cpp20.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\kenik\\onedrive\\belgeler\\unreal projects\\knightofalliance\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\knightofalliance\\definitions.knightofalliance.h",
+            "c:\\users\\kenik\\onedrive\\belgeler\\unreal projects\\knightofalliance\\source\\knightofalliance\\public\\mypointlight.h",
+            "c:\\users\\kenik\\onedrive\\belgeler\\unreal projects\\knightofalliance\\intermediate\\build\\win64\\unrealeditor\\inc\\knightofalliance\\uht\\mypointlight.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

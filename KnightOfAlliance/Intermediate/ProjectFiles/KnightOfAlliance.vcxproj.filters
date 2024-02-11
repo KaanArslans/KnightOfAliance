@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\KnightOfAlliance.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\KnightOfAlliance.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\KnightOfAllianceEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\KnightOfAlliance">
+      <UniqueIdentifier>{1AE912E9-F162-312A-86B0-C837B9A0B81A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\KnightOfAlliance\KnightOfAlliance.Build.cs">
+      <Filter>Source\KnightOfAlliance</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\KnightOfAlliance\KnightOfAlliance.cpp">
+      <Filter>Source\KnightOfAlliance</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\KnightOfAlliance\KnightOfAlliance.h">
+      <Filter>Source\KnightOfAlliance</Filter>
+    </ClInclude>
+    <Filter Include="Source\KnightOfAlliance\Private">
+      <UniqueIdentifier>{A401A973-716B-301D-86A6-357FF55C034A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\KnightOfAlliance\Private\MyPointLight.cpp">
+      <Filter>Source\KnightOfAlliance\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\KnightOfAlliance\Private\Items">
+      <UniqueIdentifier>{75081DFD-B37D-3927-A966-79882246EF25}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\KnightOfAlliance\Private\Items\Items.cpp">
+      <Filter>Source\KnightOfAlliance\Private\Items</Filter>
+    </ClCompile>
+    <Filter Include="Source\KnightOfAlliance\Public">
+      <UniqueIdentifier>{299B0C20-19EC-3FA7-B65A-0AD6CABED2AA}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\KnightOfAlliance\Public\MyPointLight.h">
+      <Filter>Source\KnightOfAlliance\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\KnightOfAlliance\Public\Items">
+      <UniqueIdentifier>{A6FC8F03-57EA-3111-AE20-ACF855A953AC}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\KnightOfAlliance\Public\Items\Items.h">
+      <Filter>Source\KnightOfAlliance\Public\Items</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
